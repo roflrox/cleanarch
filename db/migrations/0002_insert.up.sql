@@ -1,0 +1,1 @@
+INSERT INTO users (id, name) VALUES (NULL,'user1'),(NULL,'user2'),(NULL,'user3');
